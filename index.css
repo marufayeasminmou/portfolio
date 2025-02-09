@@ -1,0 +1,23 @@
+.banner-img {
+  width: 300px;
+}
+
+.nav-link:hover {
+  color: blue !important;
+}
+
+.left {
+  height: 150px;
+  width: 300px;
+}
+
+.right {
+  height: 150px;
+  width: 300px;
+}
+
+.slider__img {
+  width: 600px;
+  height: 350px;
+  object-fit:cover;
+}
